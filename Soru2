@@ -1,0 +1,9 @@
+Soru2:1'den 100'e kadar olan sayıları toplayan bir programın pseudo kodunu yazın.
+
+Başla
+    toplam = 0  
+     i = 1 den 100 e kadar
+        toplam = toplam + i  
+    Yaz("Toplam: ", toplam)
+Son
+
