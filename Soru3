@@ -9,14 +9,14 @@ Başla
             Eğer sayı i = 0 ise
                 asal = Yanlış
                 Kapat 
-            Son
-        Son
+            Bitir
+        Bitir
         
         Eğer asal = Doğru ise
             Yaz("Sayı asaldır.")
         Aksi takdirde
             Yaz("Sayı asal değildir.")
-        Son
-    Son
-Son
-```
+        Bitir
+    Bitir
+Bitir
+
