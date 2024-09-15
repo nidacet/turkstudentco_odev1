@@ -1,5 +1,5 @@
-Soru2:1'den 100'e kadar olan sayıları toplayan bir programın pseudo kodunu yazın.
-
+Soru 2: 1'den 100'e kadar olan sayıları toplayan bir programın pseudo kodunu yazın.
+Cevap 2:
 Başla
     toplam = 0  
      i = 1 den 100 e kadar
