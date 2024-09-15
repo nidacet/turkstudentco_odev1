@@ -1,0 +1,22 @@
+Soru3: Kullanıcıdan alınan bir sayının asal olup olmadığını bulan bir programın pseudo kodunu yazın.
+
+Başla
+  Kullanıcıdan sayı al (sayi)
+    Eğer sayi <= 1 ise
+        Yaz("Sayı asal değildir.")
+   Büyükse
+        asal = Doğru
+            Eğer sayı i = 0 ise
+                asal = Yanlış
+                Kapat 
+            Son
+        Son
+        
+        Eğer asal = Doğru ise
+            Yaz("Sayı asaldır.")
+        Aksi takdirde
+            Yaz("Sayı asal değildir.")
+        Son
+    Son
+Son
+```
