@@ -5,5 +5,5 @@ Başla
      i = 1 den 100 e kadar
         toplam = toplam + i  
     Yaz("Toplam: ", toplam)
-Son
+Bitir
 
